@@ -1,1 +1,3 @@
-print("Hello")
+import Times_table_02
+
+  
