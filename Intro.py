@@ -16,12 +16,14 @@ def yes_no(question):
       else:
           print("Please enter yes or no ")
 
+print("***Welcome To Noah's Math's Quiz***")
 # function to display instructions
 def instructions():
   print("*** How to play ***\n")
-  print("""Welcome to Noahs Math Quiz.
-  If you get a math equation wrong you will lose.
-  one of three lines.
+  print("""Instructions, 
+  You will be asked practicly unlimited maths addition equations 
+  unless you lose all three of your lifes, 
+  If you get a math equation wrong you will loseone of three lines.
   Good Luck!\n""")
   return ""
 
